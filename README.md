@@ -3,14 +3,11 @@
 A new Flutter application.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.Show Patient records with full name and contact details in cards.
+2.Navigate to detail screen where it show all the added details with edit, delete, cancel records.
+3.App will navigate to next screen accordingly.
+4.Add option is there in overflow menu.
+5.Full name is required field and few validations like input type of phone numbers should be number, birthdates of future dates will be disabled in calender.
+6.Db - Sqflite.
+8.Backent - flutter and dart.
+9.Pushed app on play store with provided developer account and app is live on playstore (https://play.google.com/store/apps/details?id=com.firstinsight.flutter_app_final)
